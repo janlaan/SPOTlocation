@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://www.sunspotworld.com/SPOTManager/" href="SPOTManager.jnlp">
+    <information>
+        <title>Sun SPOTManager</title>
+        <vendor>Sun Labs</vendor>
+        <description>Sun SPOTManager</description>
+        <description kind="short">Sun SPOTManager</description>
+        <homepage href="http://www.sunspotworld.com/SPOTManager"/>
+        <icon href="SpotDownload.png" kind="default"/>
+        <icon href="SpotSplash.png" kind="splash"/>
+ 	<offline-allowed/>
+        <shortcut>
+	    <desktop online="true" />
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <jar href="dist/SPOTManager.jar" main="true" download="eager"/>
+        <jar href="dist/swing-layout-1.0.4.jar" download="eager"/>
+	<jar href="dist/jsyntaxpane-0.9.5.jar" download="lazy"/>
+	<jar href="dist/commons-net-ftp-2.0.jar" download="lazy"/>
+    </resources>
+<security>
+    <all-permissions/>
+  </security>
+    <application-desc main-class="sunspot.spotmanager.Main">
+    </application-desc>
+</jnlp>
