@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Description}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Platform}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2}Theory}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Position from accelerometers}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Position from wireless signal strength}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Kalman filters}{6}{section.2.3}
+\contentsline {chapter}{\numberline {3}Data sources}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Position from accelerometers}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Distance from radio signal strength}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}Combining data for improved accuracy}{8}{chapter.4}
+\contentsline {chapter}{\numberline {5}Measuring accuracy}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Method}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Results}{9}{section.5.2}
+\contentsline {chapter}{\numberline {6}Conclusion}{10}{chapter.6}
+\contentsline {chapter}{\numberline {7}Further work}{11}{chapter.7}
+\contentsline {chapter}{\numberline {8}References}{12}{chapter.8}

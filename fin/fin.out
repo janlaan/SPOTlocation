@@ -1,0 +1,17 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Description}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Platform}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Theory}{}
+\BOOKMARK [1][-]{section.2.1}{Position from accelerometers}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Position from wireless signal strength}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Kalman filters}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Data sources}{}
+\BOOKMARK [1][-]{section.3.1}{Position from accelerometers}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Distance from radio signal strength}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Combining data for improved accuracy}{}
+\BOOKMARK [0][-]{chapter.5}{Measuring accuracy}{}
+\BOOKMARK [1][-]{section.5.1}{Method}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Results}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}
+\BOOKMARK [0][-]{chapter.7}{Further work}{}
+\BOOKMARK [0][-]{chapter.8}{References}{}
