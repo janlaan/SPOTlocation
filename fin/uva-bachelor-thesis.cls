@@ -49,7 +49,7 @@
 		\noindent\sffamily
 		\begin{description}
 		\item[\sffamily Supervisor:] \@supervisors
-		%\item[\sffamily Signed:] \@signedby
+		\item[\sffamily Signed:] \@signedby
 		\end{description}
 	\end{textblock*}
 	\textblockcolor{LightGray}
